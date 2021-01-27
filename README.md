@@ -33,17 +33,23 @@ This project was originally performed with a group. You can see the original rep
     1. Do viewer ratings correlate with oscar wins? 
     1. Do critic ratings correlate with oscar wins?
 1. Bonus: What impact does genre have on box office or awards?
-  
-## Visualisations and Analysis:
-### Total Number of Movies Released by Data Group (Time of Year) Bar Chart
+
+## Analysis:
+Please see the [Analysis file](Analysis.ipynb) for full analysis writeup.
+
+## Visualisations:
 ![top 40 by genre](/images/top_40_by_genre.png)
 
-Mean Adj. Box Office by Data Group (Time of Year) Bar Chart 
 ![avg box office](/images/avg_box_office.png)
 
-t-Test Summer Blockbusters vs. All Other Sets 
+[% box office](/images/%_box_office_season.png)
+
+[oscars by time year](/images/oscars_time_year.png)
+
+[%oscars_by_time](/images/%_oscars_time.png)
+
 Total Number of Oscars Won by Data Group (Time of Year) Bar Chart
-t test on Oscar Count 
+
 Scatterplot of IMDB ratings vs. oscars won (for the top oscar winners) - with regression line
 Bonus: % Oscars won by genre piechart
 Total box office sales by genre bar chart
