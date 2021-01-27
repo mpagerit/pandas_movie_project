@@ -48,13 +48,17 @@ Please see the [Analysis file](Analysis.ipynb) for full analysis writeup.
 
 [%oscars_by_time](/images/%_oscars_time.png)
 
-Total Number of Oscars Won by Data Group (Time of Year) Bar Chart
+[oscars_pie_%](/images/oscars_pie.png)
 
-Scatterplot of IMDB ratings vs. oscars won (for the top oscar winners) - with regression line
-Bonus: % Oscars won by genre piechart
-Total box office sales by genre bar chart
-Average box office sales by genre bar chart
+[awards vs rating](/images/awards_vs_rating.png)
 
+[metascore_vs_oscars](/images/metascore_vs_oscars.png)
+
+[oscars by genre](/images/oscars_genre.png)
+
+[box_office_genre](/images/avg_box_office_genre.png)
+
+[avg_box_office_genre](/images/box_office_genre.png)
 
 ## DataSets
 * [OMDB API](http://www.omdbapi.com/)
