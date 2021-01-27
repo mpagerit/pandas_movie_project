@@ -36,10 +36,10 @@ This project was originally performed with a group. You can see the original rep
   
 ## Visualisations and Analysis:
 ### Total Number of Movies Released by Data Group (Time of Year) Bar Chart
-![top 40 by genre](/images/top_40_by_genre.PNG)
+![top 40 by genre](/images/top_40_by_genre.png)
 
 Mean Adj. Box Office by Data Group (Time of Year) Bar Chart 
-![avg box office](/images/avg_box_office.PNG)
+![avg box office](/images/avg_box_office.png)
 
 t-Test Summer Blockbusters vs. All Other Sets 
 Total Number of Oscars Won by Data Group (Time of Year) Bar Chart
