@@ -10,6 +10,8 @@
 ## Description
 Using the Open Movie Database, analyze the top box office and academy award winning movies over the last 20 years, (2000-2019) to determine the impact of release date and genre on a movie’s commercial and critical success.
 
+This project was originally performed with a group. You can see the original repo here: https://github.com/mpagerit/Team-11-project-1
+
 ## Hypothesis
 1. Summer movies (May through July) tend to make more money than movies released at other times of the year. 
 1. However, most Oscar winners tend to be released during "Oscar Season" (November and December)
