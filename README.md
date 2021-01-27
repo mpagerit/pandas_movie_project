@@ -42,23 +42,23 @@ Please see the [Analysis file](Analysis.ipynb) for full analysis writeup.
 
 ![avg box office](/images/avg_box_office.png)
 
-[% box office](/images/%_box_office_season.png)
+![% box office](/images/%_box_office_season.png)
 
-[oscars by time year](/images/oscars_time_year.png)
+![oscars by time year](/images/oscars_time_year.png)
 
-[%oscars_by_time](/images/%_oscars_time.png)
+![%oscars_by_time](/images/%_oscars_time.png)
 
-[oscars_pie_%](/images/oscars_pie.png)
+![oscars_pie_%](/images/oscars_pie.png)
 
-[awards vs rating](/images/awards_vs_rating.png)
+![awards vs rating](/images/awards_vs_rating.png)
 
-[metascore_vs_oscars](/images/metascore_vs_oscars.png)
+![metascore_vs_oscars](/images/metascore_vs_oscars.png)
 
-[oscars by genre](/images/oscars_genre.png)
+![oscars by genre](/images/oscars_genre.png)
 
-[box_office_genre](/images/avg_box_office_genre.png)
+![box_office_genre](/images/avg_box_office_genre.png)
 
-[avg_box_office_genre](/images/box_office_genre.png)
+![avg_box_office_genre](/images/box_office_genre.png)
 
 ## DataSets
 * [OMDB API](http://www.omdbapi.com/)
