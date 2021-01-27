@@ -10,6 +10,8 @@
 ## Description
 Using the Open Movie Database, analyze the top box office and academy award winning movies over the last 20 years, (2000-2019) to determine the impact of release date and genre on a movie’s commercial and critical success.
 
+This project was originally performed with a group. You can see the original repo here: https://github.com/mpagerit/Team-11-project-1
+
 ## Hypothesis
 1. Summer movies (May through July) tend to make more money than movies released at other times of the year. 
 1. However, most Oscar winners tend to be released during "Oscar Season" (November and December)
@@ -33,15 +35,19 @@ Using the Open Movie Database, analyze the top box office and academy award winn
 1. Bonus: What impact does genre have on box office or awards?
   
 ## Visualisations and Analysis:
-1. Total Number of Movies Released by Data Group (Time of Year) Bar Chart
-    1. Mean Adj. Box Office by Data Group (Time of Year) Bar Chart 
-    1. t-Test Summer Blockbusters vs. All Other Sets 
-1. Total Number of Oscars Won by Data Group (Time of Year) Bar Chart
-    1. t test on Oscar Count 
-    1. Scatterplot of IMDB ratings vs. oscars won (for the top oscar winners) - with regression line
-1. Bonus: % Oscars won by genre piechart
-    1. Total box office sales by genre bar chart
-    1. Average box office sales by genre bar chart
+### Total Number of Movies Released by Data Group (Time of Year) Bar Chart
+![top 40 by genre](/images/top_40_by_genre.PNG)
+
+Mean Adj. Box Office by Data Group (Time of Year) Bar Chart 
+![avg box office](/images/avg_box_office.PNG)
+
+t-Test Summer Blockbusters vs. All Other Sets 
+Total Number of Oscars Won by Data Group (Time of Year) Bar Chart
+t test on Oscar Count 
+Scatterplot of IMDB ratings vs. oscars won (for the top oscar winners) - with regression line
+Bonus: % Oscars won by genre piechart
+Total box office sales by genre bar chart
+Average box office sales by genre bar chart
 
 
 ## DataSets
